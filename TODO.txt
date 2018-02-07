@@ -1,0 +1,12 @@
+Features to add:
+
+1.  GUI -
+	User selects source dir where project lives
+	User selects source dir where student source files are located
+	Automatically determine the name of the test runner from the files
+	Display individualized student test results
+
+2.  Fault tolerance -
+	- Source file doesn't compile : tough to fix but can we remove bad code until it compiles?
+	- Student file has infinite loop : kill process after 10 seconds and proceed with rest of tests
+
