@@ -1,4 +1,4 @@
-This Python script will test student submitted Java code against a Braskin/Middler generated unit test suite.
+This Python script will test student submitted Java code against a unit test suite.
 
 TODO:
  - get rid of user console spew.  Just want to set the automated testing results.  For workaround, see below.
